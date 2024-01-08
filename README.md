@@ -42,7 +42,7 @@
  <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=github,javascript" /><br>
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,framermotion,mui,html,css,vscode,figma,git" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,motion,mui,html,css,vscode,figma,git" />
     </a>
  </div>
 
