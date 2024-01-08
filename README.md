@@ -42,7 +42,7 @@
  <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=github,javascript" /><br>
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,figma,git" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,framer-motion,mui,html,css,vscode,figma,git" />
     </a>
  </div>
 
@@ -67,7 +67,7 @@
 <br/>
     <img width=325 align="center" src="https://github-readme-stats-BAayah.vercel.app/api/top-langs/? 
      username=BAayah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-     alt="top langs" />
+     alt="top-langs" />
 </div>
 
  <br/><br/>
@@ -75,7 +75,7 @@
 
  <h3 align="center">
    <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?     font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines="Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collaborate+:)">
+    <img src="https://readme/typing-svg.herokuapp.com/?     font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collaborate+:)">
    </a>
  </h3>
 
