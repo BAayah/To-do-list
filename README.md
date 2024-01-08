@@ -42,7 +42,7 @@
  <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=github,javascript" /><br>
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,framer-motion,mui,html,css,vscode,figma,git" />
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,framermotion,mui,html,css,vscode,figma,git" />
     </a>
  </div>
 
@@ -75,7 +75,7 @@
 
  <h3 align="center">
    <a href="https://git.io/typing-svg"> 
-    <img src="https://readme/typing-svg.herokuapp.com/?     font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collaborate+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?     font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collaborate+:)">
    </a>
  </h3>
 
