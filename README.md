@@ -48,7 +48,7 @@
  <div align="center">
      <h2> My Contributions </h2>
      <br>
-     <img alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=BAayah&custom_title=My%20Contributions%20by%20Months&hide_border=true" /> 
+     <img alt="" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Aiat" /> 
      <img alt="Snake Animation" src="https://raw.githubusercontent.com/BAayah/BAayah/main/github-contribution-grid-snake.svg" />
  <br/><br/><br/>
  </div>
