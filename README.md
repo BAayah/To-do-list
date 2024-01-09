@@ -48,7 +48,7 @@
  <div align="center">
      <h2> My Contributions </h2>
      <br>
-     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BAayah/BAayah/main/github-contribution-grid-snake.svg" /> 
+     <img alt="" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" /> 
     
  <br/><br/><br/>
  </div>
