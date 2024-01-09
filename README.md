@@ -49,7 +49,7 @@
      <h2> My Contributions </h2>
      <br>
      <img alt="" src="https://github-readme-stats.vercel.app/api?username=BAayah&show_icons=true&theme=radical" /> 
-    
+     <img alt="Snake Animation" src="https://raw.githubusercontent.com/BAayah/BAayah/main/github-contribution-grid-snake.svg" />
  <br/><br/><br/>
  </div>
 
