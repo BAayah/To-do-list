@@ -61,10 +61,10 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/? 
      username=BAayah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
      alt="" />
-   <img width=390 src="https://streak-stats.demolab.com/?user=BAayah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BAayah&show_icons=true&theme=gruvbox" />
 
    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAayah&layout=compact" />
+   <img width=380 src="https://streak-stats.demolab.com/?user=BAayah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
    
 <br/>
 </div>
