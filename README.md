@@ -49,7 +49,7 @@
      <h2> My Contributions </h2>
      <br>
      <img alt="" src="https://activity-graph.herokuapp.com/graph?username=BAayah" /> 
-     <img alt="" src="https://raw.githubusercontent.com/BAayah/BAayah/main/github-contribution-grid-snake.svg" />    
+     <img alt="" src="https://raw.githubusercontent.com/BAayah/BAayah/output/github-contribution-grid-snake.svg" />    
     <img alt=snake eating My Contributions" src="https://github.com/BAayah/BAayah/blob/output/github-contribution-grid-snake.gif" />
  <br/><br/><br/>
  </div>
