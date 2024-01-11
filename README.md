@@ -52,7 +52,7 @@
     
    <img alt="" src="https://raw.githubusercontent.com/BAayah/BAayah/output/github-contribution-grid-snake.svg" />    
    
-   ![snake gif](https://github.com/BAayah/BAayah/blob/output/github-contribution-grid-snake.gif")
+   ![snake gif](https://github.com/BAayah/BAayah/blob/output/github-contribution-grid-snake.gif)
  <br/><br/><br/>
  </div>
 
