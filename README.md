@@ -1,4 +1,4 @@
-
+![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
 <div>
    <h1 align="center"?
     <a href="https://git.io/typing-svg">
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-     I'm currently learning **React, Tailwind, Redux, TypeScript**
+     I'm currently learning ***React, Tailwind, Redux, TypeScript***
 
      Ask me about **HTML, CSS, JavaScript, React [here](https://github.com/BAayah/BAayah/issues)**
 
@@ -52,7 +52,7 @@
     
    <img alt="" src="https://raw.githubusercontent.com/BAayah/BAayah/output/github-contribution-grid-snake.svg" />    
    
-   <img alt="snake eating My Contributions" src="https://github.com/BAayah/BAayah/blob/output/github-contribution-grid-snake.gif" />
+   ![snake gif](https://github.com/BAayah/BAayah/blob/output/github-contribution-grid-snake.gif")
  <br/><br/><br/>
  </div>
 
