@@ -45,16 +45,16 @@
  <br/>
  <hr/>
 
- <div align="center">
+     <div align="center">
      <h2> My Contributions </h2>
      <br>
      <img alt="" src="https://activity-graph.herokuapp.com/graph?username=BAayah" /> 
     
-   <img alt="" src="https://raw.githubusercontent.com/BAayah/BAayah/output/github-contribution-grid-snake.svg" />    
+         <img alt="" src="https://raw.githubusercontent.com/BAayah/BAayah/output/github-contribution-grid-snake.svg" />    
    
-   ![snake gif](https://github.com/BAayah/BAayah/blob/output/github-contribution-grid-snake.gif)
- <br/><br/><br/>
- </div>
+              ![snake gif](https://github.com/BAayah/BAayah/blob/output/github-contribution-grid-snake.gif)
+        <br/><br/><br/>
+        </div>
 
  <hr/>
 
