@@ -13,7 +13,7 @@
 
 <div align="center">
 
-               I'm currently learning Redux, TypeScript
+               I'm currently learning TypeScript
 
      Ask me about **HTML, CSS, JavaScript, React [here](https://github.com/BAayah/BAayah/issues)**
 
